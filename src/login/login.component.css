@@ -1,0 +1,53 @@
+.login-container {
+  margin-top: 30%;
+  text-align: center;
+  color: white;
+}
+
+.fir {
+  font-family: Roboto;
+  margin: 0px;
+}
+
+.las {
+  font-family: Roboto;
+  font-weight: normal;
+  /*font-size: 24px;*/
+  margin: 10px;
+}
+
+.hd {
+  margin-bottom: 100px}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.login-input, .password-input {
+  width: 261px;
+  border: 1px solid #1E1E1E;
+  border-radius: 30px;
+  padding: 10px;
+  background-color: #FFFFFF;
+  display: block;
+  margin: 0 auto;
+}
+
+.password-input {
+  margin-top: -1px;
+}
+
+.forgot-password {
+  color: #4477AE;
+}
+
+.login-button {
+  width: 261px;
+  background-color: #EC832A;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+}
